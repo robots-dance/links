@@ -3,3 +3,8 @@ https://cxem.net - сайт СМИ "Сайт Паяльник"
 http://www.silicon-russia.com - сайт образовательных проектов в области микроэлектроники
 https://eax.me - блог ставшего инженером программиста
 https://electronix.ru - актуальный (на 2022 год) форум специалистов в области радиоэлектроники
+https://cs-cs.net - блок популярного электрика (Электрошаман)
+https://electronics.stackexchange.com - версия ресурса StackOverflow
+https://metrotek.center - сайт питерского НТЦ Метротек
+https://www.iprium.ru - сайт компании IPrium, первого российского разработчика IP-ядер
+https://russianelectronics.ru - сайт "Время электроники" издательского дома "Электроника"

@@ -1,1 +1,10 @@
-
+http://www.compression.ru - сайт "Всё о сжатии данных, изображений и видео"
+http://algolist.ru - сайт "алгоритмы, методы, исходники"
+https://sijinjoseph.com/programmer-competency-matrix - Programmer Competency Matrix
+http://www.softcraft.ru/auto - Использование теории автоматов в программировании
+http://citforum.ru/programming/theory/sorting/sorting1.shtml - Методы сортировки и поиска
+http://www.partow.net/programming/hashfunctions - General Purpose Hash Function Algorithms
+http://citforum.ru/security/cryptography/rejim_shifrov - Режимы шифрования
+https://www.ietf.org/rfc/rfc1951.txt - DEFLATE Compressed Data Format Specification version 1.3
+http://citforum.ru/programming/theory/szhatie.shtml - Обратимое сжатие или сжатие без наличия помех
+https://www.ietf.org/rfc/rfc1950.txt - ZLIB Compressed Data Format Specification version 3.3

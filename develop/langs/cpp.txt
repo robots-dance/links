@@ -1,0 +1,5 @@
+https://alenacpp.blogspot.com - блог Елены Сагалаевой, разработчика компании Microsoft, более известный как "Алена C++"
+https://cplusplus.com - сайт по стандартной библиотеке языка программирования C++ (и Си)
+https://github.com/SergeyTeplyakov/C--11-FAQ-Rus - перевод стандарта C++ 11-ой версии на русский язык
+https://pvs-studio.com/ru/blog/posts - авторитетный блог по C++ от разработчиков статического анализатора PVS-Studio
+http://ntcore.com/files/dyncpp.htm - статья по динамическим возможностям C++ (2008 год) от разработчика дизассемблера IDA Pro

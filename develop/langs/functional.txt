@@ -1,0 +1,5 @@
+http://anton-k.github.io/ru-haskell-book/book/home.html - учебник по языку программирования Haskell от Антона Холомьёва
+https://nestor.minsk.by/sr/2003/07/30710.html - статья "Lisp: побеждая посредственность"
+http://norvig.com/lispy.html - статья "(How to Write a (Lisp) Interpreter (in Python))"
+https://gigamonkeys.com/book - книга "Practical Common Lisp"
+https://eax.me/tag/haskell - список статей по Haskell

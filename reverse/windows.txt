@@ -1,0 +1,5 @@
+https://devblogs.microsoft.com/oldnewthing/ - известный сайт от компании Microsoft об аспектах внутреннего устройства ОС Microsoft Windows
+http://rsdn.org/article/dotnet/phmetadata.xml - статья "Физическая организация метаданных в исполняемых файлах .NET"
+https://www.codeproject.com/Articles/12585/The-NET-File-Format - статья "The .NET File Format"
+http://rsdn.org/article/baseserv/pe_coff.xml - статья "Форматы РЕ и COFF объектных файлов"
+http://www.nynaeve.net - архивный сайт с массой статей по отладке Windows-приложений

@@ -1,5 +1,10 @@
 http://www.ntcore.com/files/cffscriptv2.htm - описание скриптового языка программирования программы CFF Explorer
 https://xakep.ru/2014/09/09/radare-framework - объёмная статья "Основы работы с фреймворком Radare"
-http://pedramamini.com/PaiMei/docs/PyDbg/ - документация на отладчик PyDbg
+http://pedramamini.com/PaiMei/docs/PyDbg - документация на отладчик PyDbg
 https://www.hex-rays.com/products/ida/support/idadoc/417.shtml - опции запуска ПО IDA Pro
-https://habr.com/en/company/dsec/blog/329788/ - достойная статья об инструменте HexRaysPyTools
+https://habr.com/en/company/dsec/blog/329788 - достойная статья об инструменте HexRaysPyTools
+https://hex-rays.com/products/ida/support/sdkdoc - официальная документация по IDA SDK
+https://hex-rays.com/blog/code-viewer-forms-timers - расширение графического интерфейса запущенного экземпляра ПО IDA Pro за счёт графических окон определённого назначения (окна кода и формы)
+http://www.0xebfe.net/blog/2013/01/13/how-to-create-anonymous-ida-pro-database-dot-idb - создание анонимной базы данных ПО IDA Pro (с целью сокрытия авторства)
+https://www.hex-rays.com/products/ida/support/idapython_docs/ - официальная документация по IDA Python
+https://hex-rays.com/blog/running-scripts-from-the-command-line-with-idascript - запуск скриптов ПО IDA Pro в консольном режиме

@@ -1,0 +1,5 @@
+http://www.ntcore.com/files/cffscriptv2.htm - описание скриптового языка программирования программы CFF Explorer
+https://xakep.ru/2014/09/09/radare-framework - объёмная статья "Основы работы с фреймворком Radare"
+http://pedramamini.com/PaiMei/docs/PyDbg/ - документация на отладчик PyDbg
+https://www.hex-rays.com/products/ida/support/idadoc/417.shtml - опции запуска ПО IDA Pro
+https://habr.com/en/company/dsec/blog/329788/ - достойная статья об инструменте HexRaysPyTools

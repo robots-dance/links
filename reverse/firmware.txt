@@ -8,3 +8,8 @@ https://web.archive.org/web/20200813173752/http://www.devttys0.com/2011/09/explo
 https://web.archive.org/web/20200813173752/http://www.devttys0.com/2011/09/exploiting-embedded-systems-part-3 - часть 3 цикла статей "Exploiting Embedded Systems"
 https://web.archive.org/web/20190321021613/http://www.devttys0.com/2011/11/exploiting-embedded-systems-part-4 - часть 4 цикла статей "Exploiting Embedded Systems"
 https://habr.com/en/company/dsec/blog/278549 - статья "Безопасность прошивок на примере подсистемы Intel Management Engine"
+https://sec-consult.com/blog/detail/reverse-engineering-architecture-pinout-plc - глубокая статья "Reverse Engineering Architecture And Pinout of Custom Asics" об обратной разработке ПЛК производства компании Siemens
+https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html - статья "Reverse-engineering Broadcom wireless chipsets"
+https://habr.com/en/post/350602 - статья "Как я взломал паяльник" об исследовании встроенного ПО паяльной станции
+https://habr.com/en/company/inforion/blog/359116 - статья об обратной разработке микросхемы конференции SMARTRHINO (часть 1)
+https://habr.com/en/company/inforion/blog/412561 - статья об обратной разработке микросхемы конференции SMARTRHINO (часть 2)

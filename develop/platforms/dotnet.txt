@@ -1,0 +1,5 @@
+http://rsdn.org/article/dotnet/complusnet.xml - статья "COM+ компоненты средствами .Net" (2001/2007 год)
+http://rsdn.org/article/dotnet/refl.xml - статья "Метаданные в среде .Net" (2003/2016 год)
+http://rsdn.org/article/dotnet/resources.xml - статья "Управляемые (managed) ресурсы в исполняемых файлах .NET" (2004/2016 год)
+http://rsdn.org/article/dotnet/assembly2.xml - статья "Немного о сборках" (2004/2016 год)
+http://rsdn.org/article/dotnet/Native_Managed_Interop.xml - статья "Взаимодействие управляемого и неуправляемого кода" (2009/2016 год)

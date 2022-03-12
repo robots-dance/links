@@ -3,3 +3,8 @@ http://rsdn.org/article/com/comintercept.xml - две статьи о перех
 https://habr.com/en/post/154847 - первая статья о разработке отладчика Windows-приложений режима пользователя
 https://habr.com/en/post/190800 - вторая статья о разработке отладчика Windows-приложений режима пользователя
 http://rsdn.org/article/baseserv/apispy.xml - статья "API Spying" о перехвате WinAPI-функций
+http://rsdn.org/article/com/marsh.xml - статья "Секреты маршалинга"
+http://web.archive.org/web/20120720070940/http://spec.winprog.org/typeinf2 - архивированная статья "COM Automation: Type Information (Part II)" на тему автоматизации получения информации о типах COM-интерфейсов (часть цикла статей)
+https://www.codeproject.com/Articles/13862/COM-in-plain-C-Part-2 - статья "COM in plain C, Part 2" об использовании технологии COM (часть цикла статей)
+https://limbioliong.wordpress.com/2011/12/21/noncreatable-com-objects-part-1 - статья "Noncreatable COM Objects – Part 1" об отдельной разновидности COM-классов (часть цикла статей)
+https://www.codeproject.com/Articles/9190/Understanding-The-COM-Single-Threaded-Apartment-Pa - статья "Understanding The COM Single-Threaded Apartment Part 1" о поточной модели технологии COM (часть цикла статей)

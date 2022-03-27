@@ -1,0 +1,5 @@
+https://club.shelek.ru/viewart.php?id=304 - небольшая заметка по работе с классами C++ из Perl
+https://club.shelek.ru/viewart.php?id=283 - заметка о базовых типах в Perl
+http://citforum.ru/internet/perl_tut/op.shtml - статья " Операторы и приоритеты"
+http://pragmaticperl.com/issues/22/pragmaticperl-22-perl-6-xxi-%D0%B2%D0%B5%D0%BA%D0%B0.html - объёмная статья "Perl 6 XXI века"
+https://eax.me/perl-basics - краткая заметка о типах в Perl (строки, числа, массивы, хэши)

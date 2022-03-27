@@ -3,3 +3,8 @@ https://club.shelek.ru/viewart.php?id=283 - заметка о базовых т�
 http://citforum.ru/internet/perl_tut/op.shtml - статья " Операторы и приоритеты"
 http://pragmaticperl.com/issues/22/pragmaticperl-22-perl-6-xxi-%D0%B2%D0%B5%D0%BA%D0%B0.html - объёмная статья "Perl 6 XXI века"
 https://eax.me/perl-basics - краткая заметка о типах в Perl (строки, числа, массивы, хэши)
+https://eax.me/regular-expr - памятка по регулярным выражениям
+https://eax.me/perl5-oop - заметка "Объектно-ориентированное программирование в Perl 5"
+https://stanislaw.ru/rus/research/perl.asp - статья "Критический анализ языка PERL"
+https://www.perl.org/books/beginning-perl - онлайн-книга "Beginning Perl (free)"
+https://learn.perl.org/docs - официальная документация на язык программирования Perl

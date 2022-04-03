@@ -8,3 +8,8 @@ https://eax.me/perl5-oop - заметка "Объектно-ориентиров
 https://stanislaw.ru/rus/research/perl.asp - статья "Критический анализ языка PERL"
 https://www.perl.org/books/beginning-perl - онлайн-книга "Beginning Perl (free)"
 https://learn.perl.org/docs - официальная документация на язык программирования Perl
+http://affy.blogspot.com/p5be/ch01.htm - цикл статей "Perl 5 в примерах"
+https://www.perl.com/pub/2002/11/14/exception.html - статья про обработку исключений в Perl
+https://web.archive.org/web/20170807195451/http://blog.perl6doc.ru/coredoc-perl6/perl-5-vs-perl-6 - описание отличий 5-ой и 6-ой версий Perl
+https://www.spravkaweb.ru/perl - краткий список базовых библиотечных функций Perl
+https://perlmonks.org/?node_id=861966 - заметка о прототипах в Perl

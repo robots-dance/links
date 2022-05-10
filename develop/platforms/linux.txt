@@ -1,0 +1,5 @@
+https://habr.com/ru/post/106107/ - статья "Перенаправление функций в разделяемых ELF-библиотеках"
+https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C - объёмная статья по синтаксису AT&T ассемблера Intel
+http://www.codenet.ru/progr/cpp/7 - образовательный материал "Руководство программиста для Linux"
+http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html - статья "Static, Shared Dynamic and Loadable Linux Libraries"
+https://habr.com/ru/post/206148/ - красочная статья про разработку собственных драйверов устройств под ОС GNU/Linux

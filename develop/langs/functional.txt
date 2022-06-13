@@ -3,3 +3,4 @@ https://nestor.minsk.by/sr/2003/07/30710.html - статья "Lisp: побежд
 http://norvig.com/lispy.html - статья "(How to Write a (Lisp) Interpreter (in Python))"
 https://gigamonkeys.com/book - книга "Practical Common Lisp"
 https://eax.me/tag/haskell - список статей по Haskell
+https://justine.lol/sectorlisp2 - статья "LISP with GC in 436 bytes"

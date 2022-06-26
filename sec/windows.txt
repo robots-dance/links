@@ -1,0 +1,5 @@
+https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/ - документация к по-прежнему актуальному инструменту mona.py отладчика Immunity Debugger
+https://www.corelan.be/index.php/2010/01/26/starting-to-write-immunity-debugger-pycommands-my-cheatsheet - заметка о расширении функциональности отладчика Immunity Debugger
+https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr - статья об обходе различных защит (как динамических, так и статических) приложений ОС Microsoft Windows от эксплуатации уязвимостей
+https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh - статья об использовании технологии SEH при эксплуатации уязвимостей переполнения стека
+https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube - статья об обходе механизма защиты памяти DEP

@@ -1,0 +1,1 @@
+http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin - наглядная статья по методу Taint analysis от эксперта в области динамической бинарной инструментации (Jonathan Salwan)

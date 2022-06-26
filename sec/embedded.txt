@@ -1,0 +1,5 @@
+https://www.securitylab.ru/analytics/485268.php - статья "JTAG на службе специалиста по безопасности"
+https://www.securitylab.ru/analytics/485561.php - первая статья цикла "Выполнение произвольного кода внутри загрузчика S-Boot в ОС Android"
+https://www.securitylab.ru/analytics/532186.php - статья об эксплуатации уязвимости переполнения буфера в ПО сетевого коммутатора на базе МПА MIPS
+https://web.archive.org/web/20170822012214/http://www.xfocus.org/documents/200408/5.html - заметка об эксплуатации уязвимости переполнения буфера в ОС AIX на базе МПА PowerPC
+https://sohabr.net/habr/post/301832 - статья об исследовании защищённости карты "Тройка"

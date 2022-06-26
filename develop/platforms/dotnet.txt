@@ -5,3 +5,5 @@ http://rsdn.org/article/dotnet/assembly2.xml - статья "Немного о �
 http://rsdn.org/article/dotnet/Native_Managed_Interop.xml - статья "Взаимодействие управляемого и неуправляемого кода" (2009/2016 год)
 https://www.codeproject.com/Articles/463508/NET-CLR-Injection-Modify-IL-Code-during-Run-time - статья ".NET CLR Injection: Modify IL Code during Run-time" (2014 год)
 https://habr.com/en/post/154419 - статья "Инъекция кода в .NET CLR" (2012 год)
+https://professorweb.ru/my/csharp/charp_theory/level1/infocsharp.php - образовательный открытый курс по ЯП C# и платформе .NET
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/ms186214(v=vs.90) - список ответов на популярные вопросы по ЯП C# (How Do I in C#)

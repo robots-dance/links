@@ -13,3 +13,4 @@ https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html -
 https://habr.com/en/post/350602 - статья "Как я взломал паяльник" об исследовании встроенного ПО паяльной станции
 https://habr.com/en/company/inforion/blog/359116 - статья об обратной разработке микросхемы конференции SMARTRHINO (часть 1)
 https://habr.com/en/company/inforion/blog/412561 - статья об обратной разработке микросхемы конференции SMARTRHINO (часть 2)
+https://www.garykessler.net/library/file_sigs.html - список сигнатур популярных двоичных файлов

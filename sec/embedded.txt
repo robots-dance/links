@@ -3,3 +3,5 @@ https://www.securitylab.ru/analytics/485561.php - первая статья ци
 https://www.securitylab.ru/analytics/532186.php - статья об эксплуатации уязвимости переполнения буфера в ПО сетевого коммутатора на базе МПА MIPS
 https://web.archive.org/web/20170822012214/http://www.xfocus.org/documents/200408/5.html - заметка об эксплуатации уязвимости переполнения буфера в ОС AIX на базе МПА PowerPC
 https://sohabr.net/habr/post/301832 - статья об исследовании защищённости карты "Тройка"
+https://habr.com/ru/company/pt/blog/668154 - статья от Positive Technologies о современных UEFI-буткитах
+https://habr.com/ru/company/pt/blog/586126 - статья от Positive Technologies об уязвимости в выдающих банкноты устройствах банкоматов

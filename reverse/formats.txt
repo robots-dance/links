@@ -1,0 +1,2 @@
+https://habr.com/en/post/281595 - статья "Реверс-инжиниринг визуальных новелл"
+https://www.garykessler.net/library/file_sigs.html - сборник сигнатур различных форматов файлов

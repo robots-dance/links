@@ -1,0 +1,3 @@
+https://habr.com/en/post/121990 - статья "Пишем плагин-диссектор для Wireshark"
+https://habr.com/en/post/253521 - инструкция по дешифрации TLS-трафика от браузера в Wireshark
+https://habr.com/en/company/yandex/blog/162955 - статья "Определение местоположения без GPS: как устроен Яндекс.Локатор"

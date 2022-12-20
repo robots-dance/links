@@ -1,1 +1,5 @@
 https://ofrak.com - инструмент для просмотра и редактирования файлов различных форматов, включая файлы неизвестной структуры (встроенное программное обеспечение)
+https://www.pnfsoftware.com - декомпилятор для различных архитектур (Android Dalvik, Intel x86, ARM, MIPS, RISC-V, S7 PLC и др.)
+https://pythonarsenal.com - список ссылок на различные инструменты, написанные на ЯП Python, для решения задач обратной разработки
+http://www.angusj.com/resourcehacker - удобный редактор ресурсов исполняемых файлов формата Portable Executable
+https://www.jetbrains.com/decompiler - бесплатный декомпилятор исполняемых файлов под платформу Microsoft .NET

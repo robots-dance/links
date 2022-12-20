@@ -1,0 +1,5 @@
+https://beautifier.io - распаковка и деобфускация кода на языках JavaScript/HTML
+https://www.sslshopper.com/csr-decoder.html - декодирование CSR-сертификата
+https://www.protectedtext.com - передача шифрованного текста
+http://shell-storm.org/online/Online-Assembler-and-Disassembler - дизассемблер и ассемблер для разных архитектур (Intel, ARM, PowerPC, MIPS, SPARC)
+https://coveryourtracks.eff.org - вычисление индекса уникальности (отпечатка) веб-браузера

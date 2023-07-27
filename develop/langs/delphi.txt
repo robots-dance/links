@@ -1,0 +1,1 @@
+https://habr.com/ru/articles/534466 - статья о переносе крупных Delphi-приложений в ОС GNU/Linux

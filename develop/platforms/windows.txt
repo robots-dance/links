@@ -13,3 +13,4 @@ https://forum.shelek.ru - популярный русскоязычный фор
 https://web.archive.org/web/20220116155545/http://hex.pp.ua/nt/ - список недокументированных функций NTDLL
 https://habr.com/ru/post/108156 - статья о загрузке урезанного образа ОС Microsoft Windows без графической подсистемы
 https://www.developing.ru/com - архив заметок о технологии COM
+https://kaimi.io/en/2012/09/developing-pe-file-packer-step-by-step-step-6-tls - цикл статей по разработке упаковщика PE-файлов

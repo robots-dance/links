@@ -5,3 +5,4 @@ https://web.archive.org/web/20170822012214/http://www.xfocus.org/documents/20040
 https://sohabr.net/habr/post/301832 - статья об исследовании защищённости карты "Тройка"
 https://habr.com/ru/company/pt/blog/668154 - статья от Positive Technologies о современных UEFI-буткитах
 https://habr.com/ru/company/pt/blog/586126 - статья от Positive Technologies об уязвимости в выдающих банкноты устройствах банкоматов
+https://github.com/ptresearch/IntelTXE-PoC - подробное описание уязвимости INTEL-SA-00086, позволяющей включить JTAG для ядра IME

@@ -6,3 +6,4 @@ https://sohabr.net/habr/post/301832 - статья об исследовании
 https://habr.com/ru/company/pt/blog/668154 - статья от Positive Technologies о современных UEFI-буткитах
 https://habr.com/ru/company/pt/blog/586126 - статья от Positive Technologies об уязвимости в выдающих банкноты устройствах банкоматов
 https://github.com/ptresearch/IntelTXE-PoC - подробное описание уязвимости INTEL-SA-00086, позволяющей включить JTAG для ядра IME
+https://habr.com/ru/articles/491634 - цикл статей "Защита и взлом Xbox 360"

@@ -16,3 +16,4 @@ https://habr.com/en/company/inforion/blog/412561 - статья об обрат�
 https://www.garykessler.net/library/file_sigs.html - список сигнатур популярных двоичных файлов
 https://habr.com/ru/post/713020 - статья "Реверс-инжиниринг китайского ПЛК FX3U-14MR. Часть 1. Железо"
 https://eta.st/2023/01/31/rail-tickets.html - статья "Reversing UK mobile rail tickets"
+https://habr.com/ru/articles/532672 - бомбическая статья "Реверсим и улучшаем SATA контроллер"

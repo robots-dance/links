@@ -2,3 +2,4 @@ https://habr.com/en/post/121990 - статья "Пишем плагин-дисс
 https://habr.com/en/post/253521 - инструкция по дешифрации TLS-трафика от браузера в Wireshark
 https://habr.com/en/company/yandex/blog/162955 - статья "Определение местоположения без GPS: как устроен Яндекс.Локатор"
 https://habr.com/ru/articles/459254 - статья "Ещё лучшая ZIP-бомба"
+https://habr.com/ru/companies/pentestit/articles/332778 - полезная статья об анализе GSM-трафика программой Wireshark

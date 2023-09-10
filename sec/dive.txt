@@ -1,0 +1,127 @@
+00) Общие ресурсы:
+  - https://reverseengineering.stackexchange.com - аналог StackOverflow для реверсеров
+  - https://toster.ru/tags - классный аналог StackOverflow для программистов
+  - https://nostarch.com - магазин современной практической литературы ИТ/ИБ
+  - https://xakep.ru - популярнейший ИБ-журнал на территории СНГ
+
+01) Сети->Ресурсы:
+  - https://moodle.kstu.ru/course/view.php?id=2 - материалы по популярным протоколам
+  - http://citforum.ru/internet/tifamily - RFC на протоколы стека TCP/IP
+  - https://hpbn.co - интересная книга по сетевым протоколам
+
+02) Сети->Статьи:
+  - https://habr.com/en/post/121990 - статья по разработке диссектора для Wireshark
+  - https://ru.wikibooks.org/wiki/Iptables - мануал по настройке Iptables в Linux
+  - http://rsdn.org/article/ASN/ASN.xml - статья о двоичном кодировании ASN.1
+  - https://habr.com/en/post/160825 - статья об устройстве сети I2P
+
+03) Реверс->Ресурсы:
+  - https://www.garykessler.net/library/file_sigs.html - таблица сигнатур форматов файлов
+  - http://www.devttys0.com - интересные статьи по обратной разработке встроенного ПО
+  - http://ref.x86asm.net - актуальный сайт по инструкциям процессоров Intel
+  - http://pedramamini.com/PaiMei/docs/PyDbg - описание API отладчика PyDbg
+  - https://reverse4you.org - известный форум специалистов стран СНГ
+  - https://yurichev.com - сайт известного писателя Дениса Юричева
+  - http://windbg.info - посвящённый отладчику WinDbg сайт
+
+04) Реверс->Статьи:
+  - https://habr.com/en/company/mailru/blog/202554 - статья Склярова об обратной разработке
+  - https://habr.com/en/company/pt/blog/261375 - статья с разбором CTF-задания Склярова
+  - https://www.securitylab.ru/search/?q=Практический+реверс-инжиниринг - цикл статей
+  - http://rsdn.org/article/baseserv/pe_coff.xml - статья по форматам файлов PE/COFF
+  - https://habr.com/en/post/213259 - статья по техникам обфускации через LLVM
+  - https://habr.com/en/company/intel/blog/254793 - статья по языковым ВМ
+  - https://habr.com/en/post/218887 - статья по анализу защищённого ВМ ПО
+  - https://habr.com/en/post/281595 - статья по анализу форматов файлов
+  - https://habr.com/en/post/199490 - статья по сборке ELF вручную
+
+05) IDA Pro->Ресурсы:
+  - https://www.hex-rays.com/products/ida/support/idapython_docs - Python API IDA Pro
+  - https://hex-rays.com/products/ida/support/sdkdoc/annotated.html - SDK API IDA Pro
+  - http://www.hexblog.com - официальный блог по IDA Pro от её разработчиков
+
+06) IDA Pro->Статьи:
+  - https://habr.com/ru/company/pt/blog/424085 - статья Антона Дорфмана по процессорам для IDA Pro
+  - https://habr.com/ru/company/pt/blog/424457 - серия статей по разработке под IDA Pro
+  - https://habr.com/en/company/dsec/blog/329788 - пример годного плагина для IDA Pro
+
+07) Эксплоиты->Ресурсы:
+  - https://www.corelan.be - полезный обучающий ресурс по техникам эксплуатации в Windows
+  - https://firmwaresecurity.com - актуальный сайт по безопасности встроенного ПО
+  - http://www.phrack.org - довольно известный журнал по багам и эксплоитам
+
+08) Эксплоиты->Статьи:
+  - https://habr.com/en/company/pt/blog/191002 - статья по автоматизации поиска уязвимостей
+  - https://habr.com/en/company/dsec/blog/309560 - статья по разработке импланта для Cisco
+  - https://habr.com/en/company/eset/blog/184428 - статья по навесной защите от эксплоитов
+  - https://www.securitylab.ru/analytics/482900.php - статья по эксплуатации BoF в роутере
+  - https://habr.com/en/company/dsec/blog/142575 - статья по технологии DBI
+
+09) Инструменты:
+  - https://github.com/JonathanSalwan/ROPgadget - модуль поиска ROP-гаджетов для эксплоитов
+  - http://klee.github.io - платформа для символьного исполнения программ на базе LLVM
+  - http://pythonarsenal.com - обновляемый ресурс Python-инструментов для исследований
+  - http://shell-storm.org - сайт разработчика фреймворка Triton для DBI
+
+10) Программы:
+  - https://retdec.com - декомпилятор на базе LLVM для IDA Pro (открытая замена Hex-Rays)
+  - https://www.radare.org/r - пакет программ для обратной разработки и эксплоитинга
+  - https://x64dbg.com - удобный Windows-отладчик с поддержкой приложений x86-64
+  - https://github.com/icsharpcode/ILSpy - удобный декомпилятор для .NET
+  - https://github.com/0xd4d/dnSpy - лучший отладчик для .NET
+
+11) Алгоритмы:
+  - https://fat-crocodile.livejournal.com/tag/архиваторы - статьи по алгоритмам компрессии
+  - http://www.compression.ru - лучший российский ресурс по кодированию данных
+  - https://habr.com/en/company/mailru/blog/265103 - неплохая подборка книг
+  - http://e-maxx.ru/algo - описание некоторых популярных алгоритмов
+
+12) Разработка->Ресурсы:
+  - http://www.cplusplus.com - справочный ресурс по базовой библиотеке C/C++
+  - http://anton-k.github.io/ru-haskell-book/book/home.html - учебник по Haskell
+  - https://wiki.osdev.org/Main_Page - вики разработчиков операционных систем
+  - https://doc.rust-lang.org/book/README.html - описание языка Rust
+  - http://ispras.ru - сайт Института системного программирования
+
+13) Разработка->Статьи:
+  - https://habr.com/en/post/277717 - статья о разработке LLVM-компиляторов
+  - http://alenacpp.blogspot.com/2006/09/c.html - статья по книгам о C++
+
+14) Windows:
+  - https://devblogs.microsoft.com/oldnewthing - актуальный блог MS по разработке ПО под их ОС
+  - https://reversingonwindows.blogspot.com - блог по обратной разработке под Windows
+  - http://www.codemachine.com/articles.html - статьи по тематике ядра Windows
+
+15) Электроника:
+  - http://www.silicon-russia.com - сайт образовательной организации в области микроэлектроники
+  - http://easyelectronics.ru - образовательный сайт разработчиков электронных устройств
+  - https://electronix.ru/forum - крупнейший форум по электронике в России
+  - http://amperka.ru - сайт компании-популизатора платформ Arduino и RPi
+  - http://cxem.net - крупный сайт по радиоэлектронике
+
+16) Блоги компаний:
+  - https://habr.com/ru/company/pt - блог компании Positive Technologies
+  - https://habr.com/ru/company/dsec - блог компании Digital Security
+  - https://habr.com/ru/company/pvs-studio - блог компании PVS Studio
+  - https://habr.com/ru/company/intel - блог компании Intel
+
+17) Блоги спецов:
+  - http://dihalt.ru - блог известного разработчика железок и автора easyelectronics.ru
+  - https://habr.com/en/users/yuripanchul - блог Юрия Панчула (эксперт в ПЛИС)
+  - http://amatrosov.blogspot.com - блог Александра Матросова (эксперт в UEFI)
+  - http://www.alex-ionescu.com - блог Алекса Ионеску (эксперт в Windows)
+  - http://blog.cr4.sh - блог Дмитрия Олексюка (эксперт в Windows/UEFI)
+  - https://j00ru.vexillium.org - блог известного исследователя Windows
+  - https://ntcore.com - блог разработчика и исследователя (соавтор IDA)
+  - https://eax.me - популярный блог программиста широкой специализации
+  - http://scottmeyers.blogspot.com - блог автора многих книг по C++
+  - https://eli.thegreenplace.net - блог программиста-исследователя
+  - http://cs-cs.net - блог известного сборщика электрических щитов
+  - http://alenacpp.blogspot.com - блог программиста C++ (США)
+
+18) Сервисы:
+  - http://shell-storm.org/online/Online-Assembler-and-Disassembler - ассемблер/дизассемблер (10 ISA)
+  - https://www.h-schmidt.net/FloatConverter/IEEE754.html - кодировщик чисел с плавающей запятой
+  - https://onlinedisassembler.com/odaweb - дизассемблер для большого количества архитектур
+  - https://www.shodan.io - поисковик устройств в Интернете вещей по всему миру
+  - https://censys.io - другой поисковик устройств в Интернете вещей

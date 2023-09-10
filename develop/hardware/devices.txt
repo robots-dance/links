@@ -2,3 +2,5 @@ https://habr.com/ru/company/yadro/blog/719804/ - подробная статья
 https://habr.com/ru/articles/487748 - руководство по сборке бюджетного аппаратного ключа
 https://habr.com/ru/companies/croc/articles/519216 - обзорная статья по частному решению в сфере систем хранения данных
 https://habr.com/ru/articles/505302 - 10 полезных советов инженеру-схемотехнику
+https://habr.com/p/756918 - статья "История ПЭВМ «Поиск» от его создателей"
+https://habr.com/en/companies/yadro/articles/755824 - статья "История печатных плат: от Эйслера до наших дней"

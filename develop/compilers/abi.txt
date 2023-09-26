@@ -1,0 +1,1 @@
+https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64 - информативная заметка об устройстве стека для архитектуры Intel IA-64 (x86-64)

@@ -1,0 +1,1 @@
+https://habr.com/ru/companies/timeweb/articles/756430 - статья про разработку видеоадаптера VGA для микроконтроллера

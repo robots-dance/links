@@ -1,2 +1,3 @@
 https://habr.com/en/articles/520402 - статья о мошенничестве с размерами жёстких дисков
 https://habr.com/ru/articles/489840 - статья "Анатомия накопителей: жёсткие диски"
+http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller - статья об исследовании неизвестного микроконтроллера

@@ -4,3 +4,4 @@ https://habr.com/ru/companies/croc/articles/519216 - обзорная стать
 https://habr.com/ru/articles/505302 - 10 полезных советов инженеру-схемотехнику
 https://habr.com/p/756918 - статья "История ПЭВМ «Поиск» от его создателей"
 https://habr.com/en/companies/yadro/articles/755824 - статья "История печатных плат: от Эйслера до наших дней"
+https://habr.com/ru/companies/flipperdevices/articles/557282 - статья о производстве популярного инструмента пентестера

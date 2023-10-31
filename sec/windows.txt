@@ -5,3 +5,4 @@ https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-q
 https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube - статья об обходе механизма защиты памяти DEP
 https://habr.com/ru/company/dsec/blog/305960 - статья о принципах работы защитного механизма Control Flow Guard и методах его обхода
 https://fuzzysecurity.com/tutorials/expDev/8.html - статья об эксплуатации уязвимостей класса Heap Overflow
+https://www.rapid7.com/blog/post/2019/06/12/heap-overflow-exploitation-on-windows-10-explained - статья об эксплуатации уязвимости переполнения динамической памяти в Windows 10

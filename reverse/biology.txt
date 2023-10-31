@@ -1,1 +1,2 @@
 https://habr.com/ru/articles/535626 - статья об обратной разработке исходного кода коронавирусных вакцин
+https://habr.com/ru/companies/leader-id/articles/538374 - статья о быстром редактировании ДНК

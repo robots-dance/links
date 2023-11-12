@@ -1,2 +1,3 @@
 https://habr.com/ru/companies/timeweb/articles/727918 - статья члена Танца Роботов о разработке BIOS на высокоуровневых языках программирования
 https://habr.com/ru/articles/274463 - статья "Пишем DXE-драйвер для снятия скриншотов с BIOS Setup и других UEFI-приложений"
+https://docplayer.net/52245987-Vfr-programming-language.html - спецификация языка программирования VFR для описания графического интерфейса UEFI

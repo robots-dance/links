@@ -1,1 +1,2 @@
 https://www.synacktiv.com/en/publications/through-the-smm-class-and-a-vulnerability-found-there.html - статья о поиске уязвимостей в SMI-обработчиках UEFI от Lenovo ThinkPad P51s
+https://habr.com/en/articles/266935 - одна из статей (целого цикла) легендарного специалиста по безопасности UEFI

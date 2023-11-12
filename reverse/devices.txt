@@ -2,3 +2,4 @@ https://habr.com/en/articles/520402 - статья о мошенничестве
 https://habr.com/ru/articles/489840 - статья "Анатомия накопителей: жёсткие диски"
 http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller - статья об исследовании неизвестного микроконтроллера
 https://habr.com/ru/articles/709392 - статья "Как запустить Doom на УАЗ Буханке 2022"
+https://habr.com/en/articles/574194 - статья по результатам практического реверса двигателей автомобилей

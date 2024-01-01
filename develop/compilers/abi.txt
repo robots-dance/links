@@ -1,1 +1,2 @@
 https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64 - информативная заметка об устройстве стека для архитектуры Intel IA-64 (x86-64)
+https://docs.microsoft.com/en-us/cpp/build/x64-software-conventions?view=msvc-160 - ABI для 64-битных компиляторов Microsoft (Intel)

@@ -1,0 +1,3 @@
+https://eax.me/hf-antenna-for-beginners - заметка "Простая антенна начинающего коротковолновика"
+https://eax.me/python-antenna-modeling - заметка "Моделирование антенн на Python при помощи PyNEC"
+https://eax.me/limesdr - заметка "Начало работы с LimeSDR, Gqrx и GNU Radio"

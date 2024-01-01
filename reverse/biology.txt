@@ -1,2 +1,3 @@
 https://habr.com/ru/articles/535626 - статья об обратной разработке исходного кода коронавирусных вакцин
 https://habr.com/ru/companies/leader-id/articles/538374 - статья о быстром редактировании ДНК
+https://habr.com/ru/company/leader-id/blog/535646 - статья о выделении ДНК из банана

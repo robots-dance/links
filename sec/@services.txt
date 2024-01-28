@@ -1,0 +1,2 @@
+https://beautifier.io - сервис для распаковки скриптов на языке программирования JavaScript
+https://www.sslshopper.com/csr-decoder.html - сервис для декодирования SSL-сертификатов

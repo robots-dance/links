@@ -2,3 +2,4 @@ https://habr.com/ru/companies/timeweb/articles/727918 - статья члена 
 https://habr.com/ru/articles/274463 - статья "Пишем DXE-драйвер для снятия скриншотов с BIOS Setup и других UEFI-приложений"
 https://docplayer.net/52245987-Vfr-programming-language.html - спецификация языка программирования VFR для описания графического интерфейса UEFI
 https://sudonull.com/post/91988-We-are-writing-a-DXE-driver-for-taking-screenshots-from-BIOS-Setup-and-other-UEFI-applications - статья о написании DXE-драйвера для снятия скриншотов
+https://www.programmersought.com/article/91374331972 - статья об использовании графического интерфейса в UEFI BIOS

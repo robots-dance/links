@@ -6,3 +6,4 @@ https://habr.com/p/756918 - статья "История ПЭВМ «Поиск»
 https://habr.com/en/companies/yadro/articles/755824 - статья "История печатных плат: от Эйслера до наших дней"
 https://habr.com/ru/companies/flipperdevices/articles/557282 - статья о производстве популярного инструмента пентестера
 https://habr.com/en/articles/555822 - мощная статья про конструирование собственного твёрдотельного лазера
+https://habr.com/ru/companies/timeweb/articles/756430 - прекрасная статья о разработке видеоадаптера VGA для микроконтроллера

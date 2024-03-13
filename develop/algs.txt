@@ -8,3 +8,4 @@ http://citforum.ru/security/cryptography/rejim_shifrov - Режимы шифро
 https://www.ietf.org/rfc/rfc1951.txt - DEFLATE Compressed Data Format Specification version 1.3
 http://citforum.ru/programming/theory/szhatie.shtml - Обратимое сжатие или сжатие без наличия помех
 https://www.ietf.org/rfc/rfc1950.txt - ZLIB Compressed Data Format Specification version 3.3
+https://www.ispras.ru/proceedings/docs/2023/35/2/isp_35_2023_2_19.pdf - описание алгоритма генерации изображений рукописного текста на русском языке

@@ -1,3 +1,4 @@
 https://habr.com/en/articles/211879 - две статьи про модификацию встроенного ПО UEFI BIOS
 https://www.sentinelone.com/labs/moving-from-manual-reverse-engineering-of-uefi-modules-to-dynamic-emulation-of-uefi-firmware - объёмная статья про статический и динамический анализ ВсПО UEFI BIOS
 https://sudonull.com/post/253-Static-analysis-BIOS-UEFI-or-how-to-get-Dependency-Graph - статья о построении графа зависимостей UEFI-модулей
+https://sudonull.com/post/126180-Access-Hidden-Insyde-UEFI-BIOS-Settings - статья о получении доступа к скрытым настройкам UEFI BIOS

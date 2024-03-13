@@ -1,2 +1,3 @@
 https://eax.me/sdr-amateur-radio - заметка "Слушаем коротковолновиков при помощи RTL-SDR"
 https://miloserdov.org/?p=4370 - статья "How to start with HackRF and gqrx"
+https://habr.com/ru/articles/578670 - статья по перехвату цифровых радиопереговоров

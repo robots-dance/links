@@ -1,3 +1,4 @@
 https://www.synacktiv.com/en/publications/through-the-smm-class-and-a-vulnerability-found-there.html - статья о поиске уязвимостей в SMI-обработчиках UEFI от Lenovo ThinkPad P51s
 https://habr.com/en/articles/266935 - одна из статей (целого цикла) легендарного специалиста по безопасности UEFI
 https://www.synacktiv.com/en/publications/a-journey-in-reversing-uefi-lenovo-passwords-management.html - описание исследования механизмов хранения паролей в ноутбуках компании Lenovo
+http://blog.cr4.sh/2016/10/exploiting-ami-aptio-firmware.html - статья "Exploiting AMI Aptio firmware on example of Intel NUC"

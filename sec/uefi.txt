@@ -2,3 +2,5 @@ https://www.synacktiv.com/en/publications/through-the-smm-class-and-a-vulnerabil
 https://habr.com/en/articles/266935 - одна из статей (целого цикла) легендарного специалиста по безопасности UEFI
 https://www.synacktiv.com/en/publications/a-journey-in-reversing-uefi-lenovo-passwords-management.html - описание исследования механизмов хранения паролей в ноутбуках компании Lenovo
 http://blog.cr4.sh/2016/10/exploiting-ami-aptio-firmware.html - статья "Exploiting AMI Aptio firmware on example of Intel NUC"
+http://blog.cr4.sh/2015/09/breaking-uefi-security-with-software.html - статья "Breaking UEFI security with software DMA attacks"
+http://blog.frizk.net/2017/01/attacking-uefi-and-linux.html - статья "Attacking UEFI Runtime Services and Linux"

@@ -1,0 +1,1 @@
+http://rsdn.org/article/ASN/ASN.xml - доступная статья по формату данных ASN.1

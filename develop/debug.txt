@@ -1,0 +1,1 @@
+https://www.embecosm.com/appnotes/ean4/embecosm-howto-rsp-server-ean4-issue-2.html - документация на протокол GDB server

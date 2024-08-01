@@ -1,0 +1,3 @@
+https://habr.com/ru/companies/yandex/articles/241601 - Интервью Скотта Мейерса в Яндексе. О настоящем и будущем C++
+https://habr.com/ru/companies/jugru/articles/340040 - Интервью с А.А. Шалыто, профессором Университета ИТМО
+https://www.opennet.ru/opennews/art.shtml?num=38016 - Интервью с Алексеем Кузнецовым, одним из создателей сетевого стека Linux

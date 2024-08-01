@@ -1,0 +1,3 @@
+https://habr.com/ru/articles/331166 - статья о лицензировании библиотеки Qt
+https://habr.com/ru/articles/110544 - статья "Qt + QML на простом примере"
+https://habr.com/ru/articles/51319 - статья "Qt — трудности перевода"

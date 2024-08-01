@@ -1,0 +1,1 @@
+https://www.opennet.ru/docs/RUS/use_openssl - статья " Используем средства библиотеки OpenSSL для криптографической защиты данных"

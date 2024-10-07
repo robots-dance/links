@@ -4,4 +4,5 @@ https://docplayer.net/52245987-Vfr-programming-language.html - специфик�
 https://sudonull.com/post/91988-We-are-writing-a-DXE-driver-for-taking-screenshots-from-BIOS-Setup-and-other-UEFI-applications - статья о написании DXE-драйвера для снятия скриншотов
 https://www.programmersought.com/article/91374331972 - статья о C API графического интерфейса в UEFI BIOS
 https://www.programmersought.com/article/67724575158 - статья о DSL для графического интерфейса в UEFI BIOS
+https://www.barbieauglend.re/2019-08-15-system-managing-god - небольшая статья о режиме SMM
 http://datadump.ru/uefi - обзорная статья по архитектуре UEFI

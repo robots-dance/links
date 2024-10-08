@@ -1,1 +1,2 @@
 https://habr.com/ru/articles/448180 - прекрасная статья о тестировании сетей Wi-Fi на крупных объектах
+https://habr.com/ru/companies/comptek/articles/243681 - ознакомительная статья о технологии Ruckus

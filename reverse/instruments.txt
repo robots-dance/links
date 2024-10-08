@@ -8,3 +8,4 @@ https://hex-rays.com/blog/code-viewer-forms-timers - расширение гра
 http://www.0xebfe.net/blog/2013/01/13/how-to-create-anonymous-ida-pro-database-dot-idb - создание анонимной базы данных ПО IDA Pro (с целью сокрытия авторства)
 https://www.hex-rays.com/products/ida/support/idapython_docs/ - официальная документация по IDA Python
 https://hex-rays.com/blog/running-scripts-from-the-command-line-with-idascript - запуск скриптов ПО IDA Pro в консольном режиме
+https://habr.com/ru/companies/pt/articles/424085 - отличная статья по разработке процессорного модуля для ПО IDA Pro

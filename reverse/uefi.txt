@@ -3,3 +3,4 @@ https://www.sentinelone.com/labs/moving-from-manual-reverse-engineering-of-uefi-
 https://sudonull.com/post/253-Static-analysis-BIOS-UEFI-or-how-to-get-Dependency-Graph - статья о построении графа зависимостей UEFI-модулей
 https://sudonull.com/post/126180-Access-Hidden-Insyde-UEFI-BIOS-Settings - статья о получении доступа к скрытым настройкам UEFI BIOS
 https://reverse.put.as/2016/06/25/apple-efi-firmware-passwords-and-the-scbo-myth - статья об исследовании паролей восстановления Apple EFI
+https://uefi.blogspot.com/2012/10/how-to-disassembling-hii-database-part-1.html - статья "HOW TO: Disassembling the UEFI HII Database (Part 1)"

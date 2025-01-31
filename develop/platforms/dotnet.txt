@@ -7,3 +7,4 @@ https://www.codeproject.com/Articles/463508/NET-CLR-Injection-Modify-IL-Code-dur
 https://habr.com/en/post/154419 - статья "Инъекция кода в .NET CLR" (2012 год)
 https://professorweb.ru/my/csharp/charp_theory/level1/infocsharp.php - образовательный открытый курс по ЯП C# и платформе .NET
 https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/ms186214(v=vs.90) - список ответов на популярные вопросы по ЯП C# (How Do I in C#)
+https://rsdn.org/article/dotnet/coopdll.xml - статья про подключение внешних библиотек в .Net-приложениях

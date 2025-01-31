@@ -4,3 +4,4 @@ http://norvig.com/lispy.html - статья "(How to Write a (Lisp) Interpreter 
 https://gigamonkeys.com/book - книга "Practical Common Lisp"
 https://eax.me/tag/haskell - список статей по Haskell
 https://justine.lol/sectorlisp2 - статья "LISP with GC in 436 bytes"
+https://wiki.haskell.org/Haskell_in_industry - примеры использования ЯП Haskell в индустрии

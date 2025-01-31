@@ -1,2 +1,3 @@
 https://3dnews.ru/1074772/sverhgyostkiy-ultrafiolet-euv-v-poluprovodnikovoy-litografii - объёмная научно-популярная статья по современной литографии
 https://habr.com/ru/companies/aerodisk/articles/482434 - статья про использование процессоров Эльбрус 8С в СХД AERODISK
+http://landley.net/aboriginal/presentation.html - оформленная статьёй презентация по разработке под встраиваемые системы с использованием Qemu

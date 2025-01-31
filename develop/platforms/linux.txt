@@ -4,3 +4,4 @@ http://www.codenet.ru/progr/cpp/7 - образовательный матери�
 http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html - статья "Static, Shared Dynamic and Loadable Linux Libraries"
 https://habr.com/ru/post/206148/ - красочная статья про разработку собственных драйверов устройств под ОС GNU/Linux
 https://habr.com/ru/companies/ruvds/articles/724676/ - статья про отображение графических уведомлений с использованием ЯП Bash
+https://habrahabr.ru/company/spbau/blog/218833/ - статья по разработке собственной ФС под ОС GNU/Linux

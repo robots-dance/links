@@ -6,3 +6,4 @@ https://www.programmersought.com/article/91374331972 - статья о C API г�
 https://www.programmersought.com/article/67724575158 - статья о DSL для графического интерфейса в UEFI BIOS
 https://www.barbieauglend.re/2019-08-15-system-managing-god - небольшая статья о режиме SMM
 http://datadump.ru/uefi - обзорная статья по архитектуре UEFI
+https://habrahabr.ru/post/214119 - статья "EFI Byte Code и операции с памятью"

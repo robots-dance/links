@@ -7,3 +7,4 @@ https://www.programmersought.com/article/67724575158 - статья о DSL дл�
 https://www.barbieauglend.re/2019-08-15-system-managing-god - небольшая статья о режиме SMM
 http://datadump.ru/uefi - обзорная статья по архитектуре UEFI
 https://habrahabr.ru/post/214119 - статья "EFI Byte Code и операции с памятью"
+https://slideplayer.com/slide/7516125 - статья "User Interface BDS and HII: Technical Overview"

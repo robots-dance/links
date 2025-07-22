@@ -17,3 +17,4 @@ https://kaimi.io/en/2012/09/developing-pe-file-packer-step-by-step-step-6-tls - 
 https://www.geoffchappell.com/studies/windows/km/ntoskrnl/inc/api/pebteb/teb/index.htm - подробная документация на Thread Local Storage
 https://habr.com/ru/articles/130213 - наглядная инструкция по отладке драйверов под ОС Windows XP SP2 связкой VirtualBox+WinDbg
 http://www.nynaeve.net/?p=180 - цикл статей о Thread Local Storage
+https://claroty.com/team82/research/delving-into-windows-ce-lets-build-an-embedded-windows-application - вводная статья о разработке приложений под Windows CE

@@ -7,3 +7,4 @@ https://habr.com/ru/company/dsec/blog/305960 - статья о принципа�
 https://fuzzysecurity.com/tutorials/expDev/8.html - статья об эксплуатации уязвимостей класса Heap Overflow
 https://www.rapid7.com/blog/post/2019/06/12/heap-overflow-exploitation-on-windows-10-explained - статья об эксплуатации уязвимости переполнения динамической памяти в Windows 10
 https://claroty.com/team82/research/delving-into-windows-ce-part-2-analyzing-windows-ce-debugging-constructs - наглядная статья о механизмах отладки приложений Windows CE
+https://habr.com/ru/company/eset/blog/330730 - статья о вредоносе под ОС Microsoft Windows для промышленных систем управления
